@@ -1,0 +1,18 @@
+{
+  "name": "Botiga · Castellers de Mallorca",
+  "short_name": "Botiga CM",
+  "description": "Gestió de vendes i inventari dels Castellers de Mallorca",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/Logocdm.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
